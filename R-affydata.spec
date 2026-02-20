@@ -3,7 +3,7 @@
 Summary:	Affymetrix data for demonstration purpose
 Name:		R-%{packname}
 Version:	1.11.20
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Applications/Engineering
 Source0:	http://www.bioconductor.org/packages/release/data/experiment/src/contrib/%{packname}_%{version}.tar.gz
