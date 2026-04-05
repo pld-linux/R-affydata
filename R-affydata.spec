@@ -2,12 +2,12 @@
 
 Summary:	Affymetrix data for demonstration purpose
 Name:		R-%{packname}
-Version:	1.11.20
-Release:	2
+Version:	1.58.0
+Release:	1
 License:	GPL v2+
 Group:		Applications/Engineering
 Source0:	http://www.bioconductor.org/packages/release/data/experiment/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	6093705b32c13d1dedd4512726bfa4a8
+# Source0-md5:	141c1ab0896f5759904c2ae9d5c94e61
 URL:		http://www.bioconductor.org/packages/release/data/experiment/html/affydata.html
 BuildRequires:	/usr/bin/texi2dvi
 BuildRequires:	R
